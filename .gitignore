@@ -1,4 +1,5 @@
-venv/
+ai_profiler/
 __pycache__/
 *.csv
 .env
+
